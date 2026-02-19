@@ -18,7 +18,7 @@ A comprehensive Security Operations Center (SOC) simulation demonstrating incide
 ## Architecture
 
 ![Architecture](diagrams/architecture.png)
-
+```
 ┌─────────────────────────────────────────────────────────────────────┐
 │                         AZURE ENVIRONMENT                           │
 ├─────────────────────────────────────────────────────────────────────┤
@@ -43,7 +43,7 @@ A comprehensive Security Operations Center (SOC) simulation demonstrating incide
 │                              └─────────────────────────────────┘   │
 │                                                                    │
 └────────────────────────────────────────────────────────────────────┘
-
+```
 ## Detection Rules Created
 
 | Rule | Detects | Severity | MITRE |
